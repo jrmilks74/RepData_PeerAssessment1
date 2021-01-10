@@ -2,7 +2,9 @@
 title: "Course Project 1"
 author: "Jim Milks"
 date: "1/8/2021"
-output: html_document
+output:
+  md_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
